@@ -7,3 +7,7 @@ Purpose of this file is to provide a demo of git tutorials.
 ## Introduction
 This line describes a introductory part of git course.
 I hope this introduction is sufficient for your understanding
+
+## HowToContribute
+
+Please fork this repository and then issue pull requests for review.
